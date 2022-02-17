@@ -243,19 +243,19 @@ header ul li:hover {
 /* END OF ABOUT */
 
 /* WHO ARE WE */
-.who-are-we {
+#who-are-we {
   max-width: 100%;
   padding: 3rem 0;
   padding-inline: 5%;
   background-color: white;
 }
-.who-are-we h2 {
+#who-are-we h2 {
   padding-bottom: 1rem;
 }
-.who-are-we p {
+#who-are-we p {
   padding-bottom: 1rem;
 }
-.who-are-we > p:nth-child(4) {
+#who-are-we > p:nth-child(4) {
   padding-bottom: 0;
 }
 /* END OF WHO ARE WE */
@@ -650,7 +650,7 @@ header ul li:hover {
   /* END OF ABOUT */
 
   /* WHO ARE WE */
-  .who-are-we {
+  #who-are-we {
     text-align: center;
   }
   /* END OF WHO ARE WE */
@@ -1027,7 +1027,7 @@ header ul li:hover {
   /* END OF ABOUT */
 
   /* WHO ARE WE */
-  .who-are-we {
+  #who-are-we {
     padding-inline: 20%;
   }
   /* END OF WHO WE ARE */
