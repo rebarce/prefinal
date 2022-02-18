@@ -52,6 +52,11 @@ a {
   background-color: rgba(228, 227, 227, 0.55);
 }
 
+strong {
+  font-weight: 600;
+}
+
+
 /* HEADER */
 header {
   position: fixed;
@@ -1280,6 +1285,12 @@ header ul li:hover {
     grid-template-columns: repeat(3, 1fr);
   }
   /* END OF PRODUCTS */
+
+    /* PACKAGING */
+    .packaging {
+      padding-inline: 20%;
+    }
+    /* END OF PACKAGING */
 
   /* CONTACT */
 
